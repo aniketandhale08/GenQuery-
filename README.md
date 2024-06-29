@@ -22,6 +22,15 @@ You'll gain insights into how the query works and why it's structured the way it
 
 This tool is designed not just for data retrieval but also for learning SQL programming.
 Each query generated comes with detailed explanations to help you grasp SQL concepts effectively.
+
+### Formatting SQL Queries:
+Use the SQL Formatter to clean up and organize your SQL code. 
+This feature ensures that your queries are readable and consistent, making them easier to understand and maintain.
+
+### Explaining SQL Queries:
+Use the Query Explainer to break down complex SQL queries into understandable parts. 
+This feature provides detailed explanations of each component of the query, helping you understand how and why it works.
+
 ### Why Use SQL Bot?
 **Streamline Querying:** No need to write complex SQL queries from scratch. Let SQL Bot do the heavy lifting for you.
 
